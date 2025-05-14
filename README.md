@@ -33,7 +33,7 @@ Rose is a **general‑purpose, game‑friendly programming language** that marri
 
 ### 1 · Grab Rose
 
-Windows users: download the source code from [Releases](https://github.com/rose-lang) build and add it to *PATH*.
+Windows users: download the source code, build and add it to *PATH*.
 
 ### 2 · Say Hello
 
@@ -75,7 +75,7 @@ rose> for let i = 0 while i < 3 step i = i + 1 do print(i) end
 | `let speed = 5`                             | Mutable binding   |
 | `var hp = 100`                              | Mutable variable  |
 
-More in [`docs/language.md`](docs/language.md).
+More examples soon.
 
 ---
 
@@ -99,7 +99,7 @@ More in [`docs/language.md`](docs/language.md).
 
 ### Code of Conduct
 
-Rose thrives in a welcoming garden. By participating you agree to follow the [Contributor Covenant](CODE_OF_CONDUCT.md).
+Rose thrives in a welcoming garden. By participating you help making it better.
 
 ---
 
