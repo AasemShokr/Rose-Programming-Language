@@ -24,7 +24,7 @@ Rose is a **general‑purpose, game‑friendly programming language** that marri
 | ✏️  | **Expressive Syntax** | English‑like `for let … while … step … end` and `def … end` blocks keep code lyrical & legible.            |
 | 🎮  | **`rgame` Module**    | Draw sprites, handle input, and animate pixels in minutes—perfect for rapid prototypes or teaching loops.  |
 | 📦  | **Standard Library**  | Core libs: `math`, `containers`, plus an emerging package manager.                                         |
-| 🔄  | **Hot‑Reload**        | `rose run file.rose`—edit, save, and the VM reloads on the fly.                                            |
+| 🔄  | **Running**        | `rose file.rose`.                                            |
 | 🛡️ | **Safe & Open**       | Gradual typing, friendly errors, zero‑cost abstractions; Apache 2.0 for permissive & patent‑safe adoption. |
 
 ---
