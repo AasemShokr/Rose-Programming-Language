@@ -91,9 +91,8 @@ More examples soon.
 ## Contributing
 
 1. **Fork** ➜ `git clone` ➜ create branch ➜ commit.
-2. Run `./scripts/test‑all.sh` and `reuse lint` before pushing.
-3. Open a Pull Request—our CI bees will buzz.
-4. Sign off your commits (`‑s`) to grant the patent peace promised by Apache 2.
+2. Open a Pull Request—our CI bees will buzz.
+3. Sign off your commits (`‑s`) to grant the patent peace promised by Apache 2.
 
 *Small PRs are roses; big PRs are rose gardens.* 🌷
 
