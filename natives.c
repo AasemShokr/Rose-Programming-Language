@@ -4,6 +4,7 @@
 #include "natives.h"
 #include "vm.h"
 #include "object.h"
+#include "library_runtime.h"
 #include "libraries/io/io.h"
 #include "libraries/system/system.h"
 #include "libraries/math/math.h"
@@ -26,8 +27,9 @@ void DefineNativeFunctions() {
 	// SDL
 	//LoadSDL();
 	//SFML
-	LoadSFML();
+	//LoadSFML();
 	//LoadArrays();
 	//LoadTables();
 	LoadArray();
+	LoadDLL();
 }
